@@ -7,3 +7,6 @@
 [submodule "catalog"]
 	path = catalog
 	url = https://github.com/horizon-institute/dataware.catalog.git
+[submodule "prefstore"]
+	path = prefstore
+	url = https://github.com/horizon-institute/dataware.prefstore.git
