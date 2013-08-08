@@ -4,3 +4,6 @@
 [submodule "packages"]
 	path = packages
 	url = https://github.com/horizon-institute/dataware.packages.git
+[submodule "catalog"]
+	path = catalog
+	url = https://github.com/horizon-institute/dataware.catalog.git
